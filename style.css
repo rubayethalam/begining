@@ -1,0 +1,35 @@
+.title:hover{
+	color: red; 
+}
+body {
+	background: black;
+}
+pre {
+	color: white; 
+}
+span {
+	color: skyblue;
+}
+form {
+	color: red;
+}
+li:first-child {
+	color: steelblue;
+}
+td{
+	color: white;
+}
+/*
+#website1-link :link {
+	color: blue;
+}
+#website1-link :visited {
+	color: red;
+}*/
+
+a {
+	color: red;
+}
+textarea ~ button {
+	color: purple;
+}
